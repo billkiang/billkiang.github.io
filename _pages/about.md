@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Assistant at DNational Taiwan University
+subtitle: Research Assistant at National Taiwan University
 
 profile:
   align: right
