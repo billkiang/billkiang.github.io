@@ -17,7 +17,7 @@ research_interests: true
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a research assistant working in the Quantum Electronics Laboratory (QEL) at [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/), advised by Prof. Jiun-Yun Li. My research focus in the QEL is the measurement and characterization of GeSn spintronic and quantum point contact (QPC) devices for quantum computing. 
+I am a research assistant in the Quantum Electronics Laboratory (QEL) at [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/), advised by Prof. Jiun-Yun Li. My research focuses are the measurement and characterization of GeSn spintronic and quantum point contact (QPC) devices for quantum computing. 
 
 I am applying for EECS Ph.D. in the U.S. for Fall 2024.
 
