@@ -41,10 +41,6 @@ layout: default
             {{ content }}
           </div>
 
-          <div class="clearfix">
-            {{ content }}
-          </div>
-
           <!-- News -->
           {% if page.news and site.announcements.enabled -%}
             <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">news</a></h2>
@@ -62,6 +58,10 @@ layout: default
             <h2><a style="color: inherit;">research interests</a></h2>
             {%- include research_interests.html %}
           {%- endif %}
+
+          <div class="clearfix">
+            {{ content }}
+          </div>
 
           <!-- Selected papers -->
           {% if page.selected_papers -%}
