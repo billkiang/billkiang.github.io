@@ -53,17 +53,19 @@ layout: default
             {%- include latest_posts.html %}
           {%- endif %}
 
+          <!-- Research interests -->
+          {% if page.research_interests -%}
+            <h2><a style="color: inherit;">research interests</a></h2>
+            {%- include research_interests.html %}
+          {%- endif %}
+
           <!-- Selected papers -->
           {% if page.selected_papers -%}
             <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">selected publications</a></h2>
             {%- include selected_papers.html %}
           {%- endif %}
 
-          <!-- Selected papers -->
-          {% if page.research_interests -%}
-            <h2><a style="color: inherit;">selected publications</a></h2>
-            {%- include research_interests.html %}
-          {%- endif %}
+          
 
           <!-- Social -->
           {%- if page.social %}
