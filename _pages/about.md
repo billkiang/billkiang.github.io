@@ -16,9 +16,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a research assistant working in the Quantum Electronics Laboratory (QEL) at National Taiwan University (NTU), advised by Prof. Jiun-Yun Li. My research focus in the QEL is the measurement and characterization of GeSn spintronic and quantum point contact (QPC) devices for quantum computing. 
+I am a research assistant working in the Quantum Electronics Laboratory (QEL) at [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/), advised by Prof. Jiun-Yun Li. My research focus in the QEL is the measurement and characterization of GeSn spintronic and quantum point contact (QPC) devices for quantum computing. 
 
-I am applying for EECE Ph.D. in the U.S. for Fall 2024.
+I am applying for EECS Ph.D. in the U.S. for Fall 2024.
 
 Before joining the QEL, I received my B.S. in Electrical Engineering at NTU in June 2022. 
 I am fortunate to have worked with Prof. Jean-Fu Kiang on quantum sensing of geomagnetic field fluctuations
