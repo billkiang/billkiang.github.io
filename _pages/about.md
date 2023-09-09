@@ -23,7 +23,7 @@ I am applying for EECS Ph.D. in the U.S. for Fall 2024.
 
 Before joining the QEL, I received my B.S. in Electrical Engineering at NTU in June 2022. 
 I am fortunate to have worked with Prof. Jean-Fu Kiang on quantum sensing of geomagnetic field fluctuations
-and spin-bath noise spectroscopy of NV ensembles, 
+and spin-bath noise spectroscopy using nitrogen-vacancy (NV) ensembles, 
 as well as synthetic aperture sonar and radar imaging of moving vehicles.
 
 <!-- Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
