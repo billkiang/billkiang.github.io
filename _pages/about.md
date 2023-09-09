@@ -13,6 +13,7 @@ profile:
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
+research_interests: true
 social: true  # includes social icons at the bottom of the page
 ---
 
@@ -28,6 +29,3 @@ as well as synthetic aperture sonar and radar imaging of moving vehicles.
 <!-- Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
-
-
-research interests

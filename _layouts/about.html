@@ -59,6 +59,12 @@ layout: default
             {%- include selected_papers.html %}
           {%- endif %}
 
+          <!-- Selected papers -->
+          {% if page.research_interests -%}
+            <h2><a style="color: inherit;">selected publications</a></h2>
+            {%- include research_interests.html %}
+          {%- endif %}
+
           <!-- Social -->
           {%- if page.social %}
             <div class="social">
