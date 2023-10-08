@@ -1,7 +1,7 @@
 ---
 # layout: cv
 # permalink: /cv/
-permalink: /assets/pdf/CV_Sept_2023.pdf
+permalink: /assets/pdf/CV_Oct_2023.pdf
 title: cv
 nav: true
 nav_order: 4

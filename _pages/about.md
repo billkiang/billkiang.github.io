@@ -19,11 +19,10 @@ social: true  # includes social icons at the bottom of the page
 
 I am a research assistant in the [Quantum Electronics Laboratory (QEL)](https://sites.google.com/g.ntu.edu.tw/jiunyun/home) at [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/), advised by [Prof. Jiun-Yun Li](https://sites.google.com/g.ntu.edu.tw/jiunyun/members/advisor). In the QEL, my research focuses on measurement and characterization of GeSn/Ge spintronic and GeSn/Ge, Ge/GeSi quantum point contact (QPC) devices. I'm skilled at operating mK cryogenic systems for quantum measurements.
 
-I am applying for EECS Ph.D. in the U.S. for Fall 2024.
+I am applying for EECS/EE/ECE Ph.D. in the U.S. for Fall 2024.
 
 Before joining the QEL, I received my B.S. in Electrical Engineering at NTU in June 2022. 
-I am fortunate to have worked with [Prof. Jean-Fu Kiang](http://cc.ee.ntu.edu.tw/~jfkiang/) on quantum sensing of geomagnetic field fluctuations and spin-bath noise spectroscopy using nitrogen-vacancy (NV) ensembles, 
-as well as synthetic aperture sonar and radar imaging of moving vehicles.
+I am fortunate to have worked with [Prof. Jean-Fu Kiang](http://cc.ee.ntu.edu.tw/~jfkiang/) on simulations of quantum sensing to reconstruct geomagnetic field fluctuations and spin-bath noise spectrum using nitrogen-vacancy (NV) ensembles, as well as synthetic aperture sonar and radar imaging of moving vehicles.
 
 <!-- Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
