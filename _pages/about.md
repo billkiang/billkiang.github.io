@@ -17,7 +17,7 @@ research_interests: true
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a research assistant in the [Quantum Electronics Laboratory (QEL)](https://sites.google.com/g.ntu.edu.tw/jiunyun/home) at [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/), advised by [Prof. Jiun-Yun Li](https://sites.google.com/g.ntu.edu.tw/jiunyun/members/advisor). In the QEL, my research focuses on the measurement and characterization of GeSn/Ge spintronic and quantum point contact (QPC) devices. I'm skilled at operating mK cryogenic systems for quantum measurements.
+I am a research assistant in the [Quantum Electronics Laboratory (QEL)](https://sites.google.com/g.ntu.edu.tw/jiunyun/home) at [National Taiwan University (NTU)](https://www.ntu.edu.tw/english/), advised by [Prof. Jiun-Yun Li](https://sites.google.com/g.ntu.edu.tw/jiunyun/members/advisor). In the QEL, my research focuses on cryogenic measurements and characterizations of quantum point contact (QPC) devices and 2D hole gases in GeSn/Ge heterostructures. 
 
 I am applying for EECS/EE/ECE Ph.D. programs in the U.S. for Fall 2024.
 
