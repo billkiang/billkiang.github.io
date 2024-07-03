@@ -22,7 +22,7 @@ I am a research assistant in the [Quantum Electronics Laboratory (QEL)](https://
 I am applying for EECS/EE/ECE Ph.D. programs in the U.S. for Fall 2024.
 
 Before joining the QEL, I received my B.S. in Electrical Engineering at NTU in June 2022. 
-I am fortunate to have worked with [Prof. Jean-Fu Kiang](http://cc.ee.ntu.edu.tw/~jfkiang/) on modeling and simulations of quantum sensing to reconstruct geomagnetic field fluctuations and spin-bath noise spectrum using nitrogen-vacancy (NV) ensembles, as well as synthetic aperture sonar and radar imaging of moving vehicles.
+I am fortunate to have worked with [Prof. Jean-Fu Kiang](http://cc.ee.ntu.edu.tw/~jfkiang/) on modeling and simulations of wavelet-based quantum sensing to reconstruct geomagnetic field fluctuations using nitrogen-vacancy (NV) ensembles, as well as synthetic aperture sonar and radar imaging of moving vehicles.
 
 <!-- Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
