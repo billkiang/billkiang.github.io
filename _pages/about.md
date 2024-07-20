@@ -17,7 +17,7 @@ research_interests: false
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a first-year PhD student in Electrical Engineering at Stanford University, where I am currently working in the [Laboratory for Integrated Nano-Quantum Systems (LINQS)](https://linqs.stanford.edu/), advised by [Prof. Amir Safavi-Naeini](https://linqs.stanford.edu/people/amir-safavi-naeini). My research at Stanford is being graciously supported by the [NSF GRFP](https://www.nsfgrfp.org/) and the EE Departmental Fellowship. 
+I am a first-year PhD student in [Electrical Engineering](https://ee.stanford.edu/) at [Stanford University](https://www.stanford.edu/), where I am currently working in the [Laboratory for Integrated Nano-Quantum Systems (LINQS)](https://linqs.stanford.edu/), advised by [Prof. Amir Safavi-Naeini](https://linqs.stanford.edu/people/amir-safavi-naeini). My research at Stanford is being graciously supported by the [NSF GRFP](https://www.nsfgrfp.org/) and the EE Departmental Fellowship. 
 
 My main research interest is in quantum engineering, where I currently focus on quantum acoustics, exploring the physics and applications of superconducting circuits and optomechanical devices.
 
