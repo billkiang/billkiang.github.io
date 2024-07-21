@@ -21,7 +21,7 @@ I am a first-year PhD student in [Electrical Engineering](https://ee.stanford.ed
 
 My main research interest is in quantum engineering, where I currently focus on quantum acoustics, exploring the physics and applications of superconducting circuits and optomechanical devices.
 
-Before coming to Stanford, I received my B.S. in Electrical Engineering at National Taiwan University (NTU) in June 2022. During my days at NTU, I am fortunate to have worked with [Prof. Jiun-Yun Li](https://sites.google.com/g.ntu.edu.tw/jiunyun/members/advisor) on characterizing semiconductor quantum devices, and [Prof. Jean-Fu Kiang](http://cc.ee.ntu.edu.tw/~jfkiang/) on remote sensing and quantum sensing.
+Before coming to Stanford, I received my B.S. in electrical engineering at [National Taiwan University (NTU)](https://www.ntu.edu.tw/) in June 2022. During my days at NTU, I am fortunate to have worked with [Prof. Jiun-Yun Li](https://sites.google.com/g.ntu.edu.tw/jiunyun/members/advisor) on characterizing semiconductor quantum devices, and [Prof. Jean-Fu Kiang](http://cc.ee.ntu.edu.tw/~jfkiang/) on remote sensing and quantum sensing.
 
 
 
